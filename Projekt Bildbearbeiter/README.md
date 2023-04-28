@@ -12,4 +12,4 @@ Extra files that are needed to run the code are not included in this repo as the
 
 A runnable .exe file is available in [here](https://drive.google.com/file/d/1J7UEE46qH1sEPApwUDhr0A-TCyybGHHi/view?usp=sharing) and does not need any extra installations. To run the project simply execute the .exe file and start editing by creating or opening an image file inside the program.
 
-Make sure to also have a look in the project documentation.
+Make sure to also have a look in the project documentation when viewing this project.
