@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\Users\Henning\Lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiF:\IS-Programm\Bildbearbeiter\lib\x86_64-win64 -FuF:\IS-Programm\Bildbearbeiter\packages\bgrabitmap-11.2.5\bgrabitmap\lib\x86_64-win64\3.2.0 -FuC:\Users\Henning\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Users\Henning\Lazarus\lcl\units\x86_64-win64 -FuC:\Users\Henning\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Users\Henning\Lazarus\packager\units\x86_64-win64 -FuF:\IS-Programm\Bildbearbeiter\ -FUF:\IS-Programm\Bildbearbeiter\lib\x86_64-win64\ -FEF:\IS-Programm\Bildbearbeiter\ -oF:\IS-Programm\Bildbearbeiter\Bildbearbeiter.exe -dLCL -dLCLwin32 Bildbearbeiter.lpr"/>
-</CONFIG>

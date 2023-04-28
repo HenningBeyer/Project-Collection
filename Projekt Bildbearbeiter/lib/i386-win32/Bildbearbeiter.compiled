@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\i386-win32\fpc.exe" Date="1381338394"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiJ:\IS-Programm\Bildbearbeiter\lib\i386-win32 -FuJ:\IS-Programm\Bildbearbeiter\packages\bgrabitmap-11.2.5\bgrabitmap\lib\i386-win32\3.2.0 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 -FuJ:\IS-Programm\Bildbearbeiter\ -FUJ:\IS-Programm\Bildbearbeiter\lib\i386-win32\ -FEJ:\IS-Programm\Bildbearbeiter\ -oJ:\IS-Programm\Bildbearbeiter\Bildbearbeiter.exe -dLCL -dLCLwin32 Bildbearbeiter.lpr"/>
-</CONFIG>
