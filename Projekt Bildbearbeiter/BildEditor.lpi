@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="BildEditor"/>
+      <Scaled Value="True"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="True"/>
+      </XPManifest>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0"/>
+    </RunParams>
+    <RequiredPackages Count="2">
+      <Item1>
+        <PackageName Value="BGRABitmapPack"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="LCL"/>
+      </Item2>
+    </RequiredPackages>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="Bildbearbeiter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BildEditor"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\bhj\hauptunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="HauptFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="HauptUnit"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="NeuForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NeuFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="speicherform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SpeicherFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SpeicherForm"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="motionblurform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MotionBlurFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MotionBlurForm"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="pixelateform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PixelateFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="PixelateForm"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="resampleform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ResampleFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ResampleForm"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="notsavedform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NotSavedFormular"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="NotSavedForm"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="bucketform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="BucketFormular"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit8>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="Bildbearbeiter"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
