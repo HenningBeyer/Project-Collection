@@ -6,4 +6,4 @@ All in all, this project has about 2500 lines of code, an included documentation
 
 Extra files that are needed to run the code are not included in this repo. As, however, the installing of the extra Lazarus editor and the organizing of the packages can be very cumbersome, a runnable .exe file is available in [here](https://drive.google.com/file/d/1J7UEE46qH1sEPApwUDhr0A-TCyybGHHi/view?usp=sharing) and does not need any installations.
 
-To run the project simply execute the .exe file an create or open an image file.
+To run the project simply execute the .exe file an create or open an image file and make sure to have a look in the project documentation.
