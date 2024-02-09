@@ -1,4 +1,4 @@
-## Projekt Bildbearbeiter
+# Projekt Bildbearbeiter
  
 This repository holds a simple image editing software, I made as an one-month project for school. It is entirely written in Pascal and uses the [Lazarus IDE](https://www.lazarus-ide.org/) to run and compile code.
 
