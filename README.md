@@ -1,3 +1,3 @@
 ## Description:
 
-This repository contains multiple side projects made during school or university with their respective description. These projects both serve as learning projects and smaller actual projects. These are usually pretty interesting, so be sure to take a look.
+This repository contains multiple side projects with their own specific descriptions. Peek into the project directories to find out more about a project (the main page will stay blank).
