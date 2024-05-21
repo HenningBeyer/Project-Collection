@@ -9,4 +9,4 @@ The program has about 2500 lines of code, an included documentation and it can a
  
 ## Running the Program
 
-Not all files needed to run the project are included, as they are far too many. Building the project from the files would also take pretty long. Instead, I refer to the nice documentation file that includes images of the program, but also provide a runnable [.exe file](https://drive.google.com/file/d/1J7UEE46qH1sEPApwUDhr0A-TCyybGHHi/view?usp=sharing) (if you really want to run the program, despite it beeing an .exe file [never recommended]).
+Not all files needed to run the project are included, as they are far too many. Building the project from the files would also take pretty long. Instead, I refer to the nice [documentation](https://github.com/HenningBeyer/Side-Projects/blob/main/Projekt%20Bildbearbeiter/Dokumentation/Dokumentation.pdf) file that includes enough images of the program, but also provide a runnable [.exe file](https://drive.google.com/file/d/1J7UEE46qH1sEPApwUDhr0A-TCyybGHHi/view?usp=sharing) (if you really want to run the program, despite it beeing an .exe file [never recommended]).
